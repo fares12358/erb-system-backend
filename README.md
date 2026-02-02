@@ -155,5 +155,6 @@ CLIENT_URL=http://localhost:3000
 | GET | /api/dashboard/stats | System statistics |
 | GET | /api/dashboard/charts | Line chart data |
 | GET | /api/dashboard/products | Product analytics |
+| GET | /api/dashboard | dashboard analytics |
 
 
